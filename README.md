@@ -1,4 +1,4 @@
-**Title of the project:** Real Time Bus Tracker
+**Title of the project:** Real Time Bus Tracker Exercise
 
 **Description of the project:** Refactored Code for Real Time Bus Tracker Between MIT and Harvard
 
