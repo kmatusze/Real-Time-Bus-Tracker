@@ -1,12 +1,10 @@
-**Title of the project:** Real Time Bus Tracker Exercise
-
-**Description of the project:** Refactored Code for Real Time Bus Tracker Between MIT and Harvard
+***Real Time Bus Tracker Exercise*** contains refactored code for Real Time Bus Tracker, tracking the path of the bus between MIT and Harvard Universities. Refactored code includes API code from MapBox which is exciting! 
 
 **How to Run:** Utilize code files in VS Code to see Real Time Bus Tracking 
 
-**Roadmap of future improvements:** Will be updating using other transit system codes
+**Roadmap of future improvements:** Will be updating using other transit system codes along with the latitude and longitude directions, as well as updating the CSS style ie Dark Mode vs Light Mode. 
 
-**License information:** Please note original code is under MIT license & MIT Women In Tech - MERN Coding Program
+**License information:** 
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -20,7 +18,7 @@ copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
