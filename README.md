@@ -1,8 +1,8 @@
-***Real Time Bus Tracker Exercise*** contains refactored code for Real Time Bus Tracker, tracking the path of the bus between MIT and Harvard Universities. Refactored code includes API code from MapBox which is exciting! 
+***Real Time Bus Tracker Exercise*** contains refactored code for Real Time Bus Tracker, tracking the path of the bus between MIT and Harvard Universities. Refactored code includes API code from MapBox in Dark Mode which is exciting! 
 
-**How to Run:** Utilize code files in VS Code to see Real Time Bus Tracking 
+**How to Run:** Utilize code files in VS Code to see Real Time Bus Tracking along with reviewing the CSS Style code. 
 
-**Roadmap of future improvements:** Will be updating using other transit system codes along with the latitude and longitude directions, as well as updating the CSS style ie Dark Mode vs Light Mode. 
+**Roadmap of future improvements:** Will be updating using other transit system codes along with the latitude and longitude directions, as well as updating the additional CSS styles ie Light Mode and perhaps icons and map structures such as 3D. 
 
 **License information:** 
 
